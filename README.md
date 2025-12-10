@@ -1,2 +1,3 @@
-# .github
-Welcome repo
+# Livspeil
+
+Preserve yourself in the digital world.
